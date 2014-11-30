@@ -1,0 +1,15 @@
+{
+  "version": "1",
+  "name": "Fuel Control",
+  "launch_path": "/index.html",
+  "description": "Control supply",
+  "icons": {
+    "128": "/images/logo128.png"
+  },
+  "developer": {
+    "name": "Amanda Barbosa, Nikson Magnea",
+    "url": "github"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+}
